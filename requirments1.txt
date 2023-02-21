@@ -9,3 +9,8 @@ vibrant
 dynamic features
 platform independent
 dark mode
+
+voice calls
+video calls
+status
+payment
