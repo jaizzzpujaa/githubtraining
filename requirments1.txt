@@ -1,0 +1,4 @@
+technologies 
+.net
+sql server
+ui
