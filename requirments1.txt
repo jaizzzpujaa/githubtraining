@@ -2,3 +2,10 @@ technologies
 .net
 sql server
 ui
+
+Features:-
+
+vibrant
+dynamic features
+platform independent
+dark mode
